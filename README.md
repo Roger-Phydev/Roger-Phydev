@@ -1,4 +1,9 @@
-### Hi there 👋
+Hello My name is Brian Rogelio Parra Hernández, but they call me Roger as you can guess from my github name.
+
+I'm a physicist but I have knowledge about Arduino, theoric electronics, mathematics, HTML, Python, JavaScript, CSS and obviusly, english.
+
+I'm currently working on automations using no code tools as make.com and zapier, and in my free time i'm learning how to create basic games on Godot4
+
 
 <!--
 **Roger-Phydev/Roger-Phydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
